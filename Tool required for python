@@ -1,0 +1,10 @@
+we can use multiple tools to write and formate our pyhton code. Below are the list of different notebook which are free to use.
+try practising your code on below Notebook.
+  1. Jupyter (For R, Python)-open source notebook free to use
+  2. zeppelin (for R, python, Scala)-open source notebook free to use
+        best thing about appache zeppelin notebook is its ability to connect to different kernel in same note book. We can write a 
+        block of code and execute in python and the execute next block of code in R.
+  3. Spyder: This is  a complete software package free to use. We have to install annaconda with it. Annaconda provides command line prompt 
+            for spyder. Different statisitcal, visualization package etc need to ne installed through annaconda.
+
+once we are ready with any one of thr mentioned software, we can now begin our lesson.
